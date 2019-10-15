@@ -4,7 +4,7 @@ This repository contains the code for our NeurIPS'19 paper CPM-Nets: Cross Parti
 
 ## Framework
 
-<img src="images/framework.jpg" width="900px" height="220px"/>
+<img src="images/framework.jpg"/>
 
 ## Requirements
 
