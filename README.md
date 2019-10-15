@@ -1,5 +1,10 @@
 # CPM-Nets: Cross Partial Multi-View Networks
-A TensorFlow implementation of *CPM-Nets: Cross Partial Multi-View Networks*
+
+This repository contains the code for our NeurIPS'19 paper CPM-Nets: Cross Partial Multi-View Networks.
+
+## Framework
+
+<img src="images/framework.jpg.jpg" width="900px" height="220px"/>
 
 ## Requirements
 
@@ -12,11 +17,13 @@ A TensorFlow implementation of *CPM-Nets: Cross Partial Multi-View Networks*
 ## Introduction
 
 Despite multi-view learning progressed fast in past decades, it is still challenging due to the difficulty in modeling complex correlation among different views, especially under the context of view missing. To address the challenge, we propose a novel framework termed Cross Partial Multi-View Networks (CPM-Nets). In this framework, we first give a formal definition of completeness and versatility for multi-view representation and then theoretically prove the versatility of the latent representation learned from our algorithm. To achieve the completeness, the task of learning latent multi-view representation is specifically translated to degradation process through mimicking data transmitting, such that the optimal trade off between consistence and complementarity across different views could be achieved.In contrast with methods that either complete missing views or group samples according to view-missing patterns, our model fully exploits all samples and all views to produce structured representation for interpretability. Extensive experimental results validate the effectiveness of our algorithm over existing state-of-the-arts.
+
 ## Example Experiments
 
 This repository contains a subset of the experiments mentioned in the paper.
 
 ## Testing
+
 Each file in the directory in the file is a demo of a data set.The optimal parameters are set in each file to achieve the accuracy mentioned in the paper.You can simply run the code in the following way.
 ```
 python hand.py
