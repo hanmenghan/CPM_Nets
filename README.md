@@ -26,11 +26,11 @@ This repository contains a subset of the experiments mentioned in the paper.
 
 Each file in the directory in the file is a demo of a data set.The optimal parameters are set in each file to achieve the accuracy mentioned in the paper.You can simply run the code in the following way.
 ```
-python hand.py
+python test_hand.py
 ```
 You can adjust some of the hyperparameters in the following ways:
 ```
-python hand.py --missing-rate 0.5 --lamb 10
+python test_hand.py --missing-rate 0.5 --lamb 10
 ```
 In this way, you can modify the missing rate,the value of the lambda and other parameters.The number of layers and the learning rate of the network need to be modified in the file.
 
