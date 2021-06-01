@@ -36,6 +36,19 @@ In this way, you can modify the missing rate,the value of the lambda and other p
 
 ## Citation
 If you find CPM-nets helps your research, please cite our paper:
+```
+@inproceedings{NEURIPS2019_11b9842e,
+ author = {Zhang, Changqing and Han, Zongbo and cui, yajie and Fu, Huazhu and Zhou, Joey Tianyi and Hu, Qinghua},
+ booktitle = {Advances in Neural Information Processing Systems},
+ editor = {H. Wallach and H. Larochelle and A. Beygelzimer and F. d\textquotesingle Alch\'{e}-Buc and E. Fox and R. Garnett},
+ pages = {},
+ publisher = {Curran Associates, Inc.},
+ title = {CPM-Nets: Cross Partial Multi-View Networks},
+ url = {https://proceedings.neurips.cc/paper/2019/file/11b9842e0a271ff252c1903e7132cd68-Paper.pdf},
+ volume = {32},
+ year = {2019}
+}
+```
 
 ## Questions?
 
