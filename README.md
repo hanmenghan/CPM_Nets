@@ -1,6 +1,8 @@
 # CPM-Nets: Cross Partial Multi-View Networks
 
-This repository contains the code for our NeurIPS'19 Spotlight paper [CPM-Nets: Cross Partial Multi-View Networks](https://github.com/hanmenghan/CPM_Nets/blob/master/paper/). Datasets can be obtained [here](https://drive.google.com/drive/folders/1TKiyL7vCq6DpFDMrQXIJdUcbVK6SIyhk?usp=sharing). Maybe our work [“Trusted Multi-View Classification”](https://arxiv.org/abs/2102.02051) can also inspire you.
+This repository contains the code for our NeurIPS'19 Spotlight paper [CPM-Nets: Cross Partial Multi-View Networks](https://github.com/hanmenghan/CPM_Nets/blob/master/paper/). Datasets can be obtained [here](https://drive.google.com/drive/folders/1TKiyL7vCq6DpFDMrQXIJdUcbVK6SIyhk?usp=sharing). 
+
+Maybe our work [“Trusted Multi-View Classification”](https://arxiv.org/abs/2102.02051) can also inspire you.
 
 ## Framework
 
