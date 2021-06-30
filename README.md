@@ -54,4 +54,4 @@ If you find CPM-nets helps your research, please cite our paper:
 
 ## Questions?
 
-Please report any bugs and I will get to them ASAP. For any additional questions, feel free to email zongbo@tju.edu.cn.
+Please report any bugs and I will get to them ASAP. For any additional questions, feel free to email zongbo AT tju DOT edu DOT cn.
